@@ -8,6 +8,26 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 
 [[Base de données extrème droite CEFIR](https://bd.cefir.xyz/)] Un site web complet qui permet de classer, rechercher, filtrer, créer des listes pour pouvoir lire, organiser la base de données extrème droite du CEFIR. Le site utilise un serveur express Node.js.
 
+### Liens vers mes projets sur YouTube.
+
+Cliquer sur une image pour se rendre sur le vidéo YouTube correspondant.
+
+#### Platformer
+[[Platformer: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-platformer)]
+[[Platformer: Liens vers la vidéo](https://www.youtube.com/watch?v=EjWt25mWSm8)]
+
+<a href="https://www.youtube.com/watch?v=EjWt25mWSm8">
+  <img src="https://img.youtube.com/vi/EjWt25mWSm8/0.jpg" alt="Platformer" width="500" />
+</a>
+
+#### Space Invaders
+[[Space Invaders: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-space-invaders)]
+[[Space Invaders: Liens vers la vidéo](https://www.youtube.com/watch?v=-58Sw8y_cJ8)]
+
+<a href="https://www.youtube.com/watch?v=-58Sw8y_cJ8">
+  <img src="https://img.youtube.com/vi/-58Sw8y_cJ8/0.jpg" alt="SpaceInvaders" width="500" />
+</a>
+
 <!--
 **ddanygagnon/ddanygagnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
