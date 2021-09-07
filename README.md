@@ -8,7 +8,7 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 
 [[Base de données extrème droite CEFIR](https://bd.cefir.xyz/)] Un site web complet qui permet de classer, rechercher, filtrer, créer des listes pour pouvoir lire, organiser la base de données extrème droite du CEFIR. Le site utilise un serveur express Node.js.
 
-### Liens vers mes projets sur YouTube.
+### Liens vers mes projets sur YouTube ▶️
 
 Cliquer sur une image pour se rendre sur le vidéo YouTube correspondant.
 
