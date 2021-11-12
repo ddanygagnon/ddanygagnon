@@ -10,6 +10,8 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 
 ### Liens vers mes projets ▶️
 
+Cliquer sur les images pour voir le projet en action.
+
 #### Web 3 Platformer
 [[Web platformer: Liens vers le site web](https://dgagn.github.io/web3-platformer)]
 [[Web platformer: Liens vers le code source](https://github.com/ddanygagnon/web3-platformer)]
@@ -17,9 +19,6 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 <a href="https://dgagn.github.io/web3-platformer">
   <img width="508" alt="Screen Shot 2021-11-12 at 5 25 03 PM" src="https://user-images.githubusercontent.com/21992952/141546827-d136df89-c501-482c-bd92-c4180a6217ba.png">
 </a>
-
-Cliquer sur une image pour se rendre sur le vidéo YouTube correspondant.
-
 
 #### Platformer
 [[Platformer: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-platformer)]
