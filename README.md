@@ -6,11 +6,11 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 
 ### Favoris ✨
 
+Cliquer sur les images pour voir le projet en action.
+
 [[Base de données extrème droite CEFIR](https://bd.cefir.xyz/)] Un site web complet qui permet de classer, rechercher, filtrer, créer des listes pour pouvoir lire, organiser la base de données extrème droite du CEFIR. Le site utilise un serveur express Node.js.
 
-### Liens vers mes projets ▶️
-
-Cliquer sur les images pour voir le projet en action.
+<img width="595" alt="Screen Shot 2021-11-12 at 5 29 22 PM" src="https://user-images.githubusercontent.com/21992952/141552478-e1967ddc-fac7-4740-8914-beb8e173dad9.png">
 
 #### Web 3 Platformer
 [[Web platformer: Liens vers le site web](https://dgagn.github.io/web3-platformer)]
