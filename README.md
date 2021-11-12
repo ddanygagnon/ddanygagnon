@@ -12,6 +12,10 @@ Dany est un étudiant en technique informatique brillant et minutieux, qui adore
 
 Cliquer sur une image pour se rendre sur le vidéo YouTube correspondant.
 
+### Web 3 Platformer
+[[Web platformer: Liens vers le site web](https://dgagn.github.io/web3-platformer)]
+[[Web platformer: Liens vers le code source](https://github.com/ddanygagnon/web3-platformer)]
+
 #### Platformer
 [[Platformer: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-platformer)]
 [[Platformer: Liens vers la vidéo](https://www.youtube.com/watch?v=EjWt25mWSm8)]
