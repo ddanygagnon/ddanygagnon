@@ -1,6 +1,6 @@
 ### Dany Gagnon 🐒
 
-Vous pouvez me rejoindre sur mon adresse courrielle: ddanygagnon@gmail.com
+Vous pouvez me rejoindre sur mon adresse courriel: ddanygagnon@gmail.com
 
 Dany est un étudiant en technique informatique brillant et minutieux, qui adore apprendre et relever de nouveaux défis. Il est passionné par l’informatique et tout ce qui s’y rattache, tel que la création de robots, l’intelligence artificielle, la conception de sites web complets, les algorithmes complexes. Outre l’informatique, l’entraînement physique, la boxe et le hockey sont des activités qui le passionnent.  Une fois son parcours au cégep terminé, Dany a l’intention de poursuivre ses études à l’université.
 
