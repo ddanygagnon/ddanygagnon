@@ -14,14 +14,14 @@ Cliquer sur les images pour voir le projet en action.
 
 #### Web 3 Platformer
 [[Web platformer: Liens vers le site web](https://dgagn.github.io/web3-platformer)]
-[[Web platformer: Liens vers le code source](https://github.com/ddanygagnon/web3-platformer)]
+[[Web platformer: Liens vers le code source](https://github.com/dgagn/web3-platformer)]
 
 <a href="https://dgagn.github.io/web3-platformer">
   <img width="508" alt="Screen Shot 2021-11-12 at 5 25 03 PM" src="https://user-images.githubusercontent.com/21992952/141546827-d136df89-c501-482c-bd92-c4180a6217ba.png">
 </a>
 
 #### Platformer
-[[Platformer: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-platformer)]
+[[Platformer: Liens vers le code source](https://github.com/dgagn/jeux2d-platformer)]
 [[Platformer: Liens vers la vidéo](https://www.youtube.com/watch?v=EjWt25mWSm8)]
 
 <a href="https://www.youtube.com/watch?v=EjWt25mWSm8">
@@ -29,7 +29,7 @@ Cliquer sur les images pour voir le projet en action.
 </a>
 
 #### Space Invaders
-[[Space Invaders: Liens vers le code source](https://github.com/ddanygagnon/jeux2d-space-invaders)]
+[[Space Invaders: Liens vers le code source](https://github.com/dgagn/jeux2d-space-invaders)]
 [[Space Invaders: Liens vers la vidéo](https://www.youtube.com/watch?v=-58Sw8y_cJ8)]
 
 <a href="https://www.youtube.com/watch?v=-58Sw8y_cJ8">
